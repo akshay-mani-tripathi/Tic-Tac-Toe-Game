@@ -39,8 +39,6 @@ CSS
 
 JavaScript
 
-📸 Screenshots
-Add a screenshot of your game here.
 
 📌 Future Enhancements
 Add AI-based single-player mode.
